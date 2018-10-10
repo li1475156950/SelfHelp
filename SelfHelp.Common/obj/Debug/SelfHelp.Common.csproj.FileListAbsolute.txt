@@ -1,0 +1,10 @@
+D:\SelfHelpWeb\SelfHelp.Common\bin\Debug\SelfHelp.Common.dll
+D:\SelfHelpWeb\SelfHelp.Common\bin\Debug\SelfHelp.Common.pdb
+D:\SelfHelpWeb\SelfHelp.Common\obj\Debug\SelfHelp.Common.csprojResolveAssemblyReference.cache
+D:\SelfHelpWeb\SelfHelp.Common\obj\Debug\SelfHelp.Common.dll
+D:\SelfHelpWeb\SelfHelp.Common\obj\Debug\SelfHelp.Common.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Common\bin\Debug\SelfHelp.Common.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Common\bin\Debug\SelfHelp.Common.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Common\obj\Debug\SelfHelp.Common.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Common\obj\Debug\SelfHelp.Common.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Common\obj\Debug\SelfHelp.Common.csprojResolveAssemblyReference.cache

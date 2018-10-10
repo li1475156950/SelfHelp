@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D184A42D-C42C-4D4B-83BC-5E5F79CA77EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SelfHelp.BLL</RootNamespace>
+    <AssemblyName>SelfHelp.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminLoginService.cs" />
+    <Compile Include="ContentSettingsService.cs" />
+    <Compile Include="MessageService.cs" />
+    <Compile Include="MyTestListService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PsychologicalGameService.cs" />
+    <Compile Include="PsychologyVideoService.cs" />
+    <Compile Include="Service.cs" />
+    <Compile Include="StartAnswerService.cs" />
+    <Compile Include="SystemSettingsService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SelfHelp.Common\SelfHelp.Common.csproj">
+      <Project>{f72753ed-b63b-495b-a3d2-fc4ad70c6edb}</Project>
+      <Name>SelfHelp.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelfHelp.Contract\SelfHelp.Contract.csproj">
+      <Project>{dcc42290-91a8-4ea4-8912-df351ef502f6}</Project>
+      <Name>SelfHelp.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelfHelp.DAL\SelfHelp.DAL.csproj">
+      <Project>{de320896-57f0-4134-8c1a-7a04fd622229}</Project>
+      <Name>SelfHelp.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelfHelp.IDAL\SelfHelp.IDAL.csproj">
+      <Project>{bb899dae-e262-420f-98d6-82ed11605afb}</Project>
+      <Name>SelfHelp.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelfHelp.Models\SelfHelp.Models.csproj">
+      <Project>{e7f8ae21-1972-481d-9f4f-d8c1e13cc620}</Project>
+      <Name>SelfHelp.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SelfHelp.WCFExtension\SelfHelp.WCFExtension.csproj">
+      <Project>{595d1d35-b7a5-4cdd-bc1a-f87054ee5b31}</Project>
+      <Name>SelfHelp.WCFExtension</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

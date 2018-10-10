@@ -1,0 +1,8 @@
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\bin\Release\SelfHelp.Models.dll.config
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\bin\Release\SelfHelp.Models.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\bin\Release\SelfHelp.Models.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\bin\Release\SelfHelp.Common.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\bin\Release\SelfHelp.Common.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\obj\Release\SelfHelp.Models.csprojResolveAssemblyReference.cache
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\obj\Release\SelfHelp.Models.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Models\obj\Release\SelfHelp.Models.pdb

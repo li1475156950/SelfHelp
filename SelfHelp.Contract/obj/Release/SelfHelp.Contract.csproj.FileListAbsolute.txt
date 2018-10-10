@@ -1,0 +1,9 @@
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\bin\Release\SelfHelp.Contract.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\bin\Release\SelfHelp.Contract.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\bin\Release\SelfHelp.Common.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\bin\Release\SelfHelp.Models.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\bin\Release\SelfHelp.Common.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\bin\Release\SelfHelp.Models.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\obj\Release\SelfHelp.Contract.csprojResolveAssemblyReference.cache
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\obj\Release\SelfHelp.Contract.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.Contract\obj\Release\SelfHelp.Contract.pdb

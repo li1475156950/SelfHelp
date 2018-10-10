@@ -1,0 +1,9 @@
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\bin\Release\SelfHelp.IDAL.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\bin\Release\SelfHelp.IDAL.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\bin\Release\SelfHelp.Common.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\bin\Release\SelfHelp.Models.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\bin\Release\SelfHelp.Common.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\bin\Release\SelfHelp.Models.pdb
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\obj\Release\SelfHelp.IDAL.csprojResolveAssemblyReference.cache
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\obj\Release\SelfHelp.IDAL.dll
+E:\新版自助系统源码\自助系统源码\SelfHelpWeb\SelfHelp.IDAL\obj\Release\SelfHelp.IDAL.pdb

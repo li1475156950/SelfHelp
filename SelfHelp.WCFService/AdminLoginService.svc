@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SelfHelp.WCFService.AdminLoginService" CodeBehind="AdminLoginService.svc.cs" %>
